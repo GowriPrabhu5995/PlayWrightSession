@@ -1,7 +1,4 @@
 package PlaywrightSessios;
-import com.microsoft.playwright.Browser;
-import com.microsoft.playwright.BrowserContext;
-import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.*;
 
 import java.lang.reflect.Method;
@@ -25,7 +22,8 @@ public class locatorelementnadelements {
         // }
 
 
-        //Method 2:
+        //Method 2:git commit
+
            List<String> countryOptionText = countryoptions.allTextContents();
            for(String text : countryOptionText){
                System.out.println(text);
