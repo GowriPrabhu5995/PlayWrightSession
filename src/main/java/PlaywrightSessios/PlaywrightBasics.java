@@ -1,7 +1,7 @@
 package PlaywrightSessios;
 import com.microsoft.playwright.*;
 import com.microsoft.playwright.BrowserType.LaunchOptions;
-import com.microsoft.playwright.options.AriaRole;
+//import com.microsoft.playwright.options.AriaRole;
 public class PlaywrightBasics {
 
 	public static void main(String[] args) {
