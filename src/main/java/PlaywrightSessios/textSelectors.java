@@ -1,3 +1,4 @@
+package PlaywrightSessios;
 import com.microsoft.playwright.*;
 
 public class textSelectors {
